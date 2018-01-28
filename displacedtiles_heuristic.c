@@ -1,11 +1,3 @@
-/*
-
-JUNAID N Z(201601036)
-ADITYA HARIDAS MENON(201601002)
-
-*/
-
-
 #include <stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
